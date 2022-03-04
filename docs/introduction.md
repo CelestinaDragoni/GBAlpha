@@ -90,7 +90,7 @@ This is great but:
 
 While I appreciate that an SVG was given so I could make a plexiglass lid, I didn't want that personally. Now I know that [marcus9199](https://www.thingiverse.com/marcus9199) made a lid ([link](https://www.thingiverse.com/thing:4535786)) and it was *fine*, but again needed these mystery magnets to make it work work.
 
-Just to note, I don't like magnets as a mounting hardware to begin with (This is the exactly reason why I threw a Razor Naga in the trash some eight years ago). Furthermore an inset logo will always look worse printed than embossed, just the nature of FDM. I ended up making a lid modification with a thru-holes for screws and a cleaner logo as a result while I was trying to make this case work for me.
+Just to note, I don't like magnets as a mounting hardware to begin with (This is the exact reason why I threw a Razor Naga in the trash some eight years ago). Furthermore an inset logo will always look worse printed than embossed, just the nature of FDM. I ended up making a lid modification with a thru-holes for screws and a cleaner logo as a result while I was trying to make this case work for me.
 
 #### Problem 3 - Design  (Subjective)
 Again, felt like a project box- but that is just on me.
