@@ -1,11 +1,13 @@
 
 ## Navigation
 
+- [Home](../readme.md)
 - [Expanded Introduction / Forward](introduction.md)
 - [Image Gallery](gallery.md)
 - [Materials Required](materials.md)
 - [Printing Instructions / Suggestions](printing.md)
 - [Assembly](assembly.md)
+- [STL Index](../stl/readme.md)
 
 # Assembly
 Your case has been printed and you're ready to go- here is how you assemble everything.
